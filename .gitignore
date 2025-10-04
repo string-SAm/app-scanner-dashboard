@@ -1,0 +1,15 @@
+node_modules
+dist/
+yarn.lock
+package-lock.json
+yarn-error.log
+.env*
+!.env.example
+
+# OSX
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+# Jetbrains editors
+.idea/
